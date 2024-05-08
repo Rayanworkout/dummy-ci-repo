@@ -2,15 +2,15 @@
 
 Souci dans les sous parties du sommaire à partir du point VI. Pour la suite des corrections je me base sur les numéros apparents et pas les numéros réels.
 
-Point 5 dans sommaire: Limites en matière de ressources humaines au sein des universités (le mot orchestration est très bien mais il faut éviter la répétition, déjà présent dans 
+- Point 5 dans sommaire: Limites en matière de ressources humaines au sein des universités (le mot orchestration est très bien mais il faut éviter la répétition, déjà présent dans 
 
-Point 5.1 dans sommaire: "Théorie des coûts de recherche ET DES  coûts de transaction dans la théorie du travail "
+- Point 5.1 dans sommaire: "Théorie des coûts de recherche ET DES  coûts de transaction dans la théorie du travail "
 
-Point 5.6 dans sommaire: certains métiers*
+- Point 5.6 dans sommaire: certains métiers*
 
-Point 5.10 dans le sommaire: Ajouter un espace
+- Point 5.10 dans le sommaire: Ajouter un espace
 
-Point 5.16: Proposition de modif de la phrase -> 5.16.Conclusion et revue des principaux apports théoriques de l'étude.
+- Point 5.16: Proposition de modif de la phrase -> 5.16.Conclusion et revue des principaux apports théoriques de l'étude.
 
 
 ## INTRO
