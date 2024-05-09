@@ -66,3 +66,67 @@ Les injonctions de l'État et de la présidence, ainsi que l'ensemble des mesure
 
 **Proposition**
 - Attention cependant, car bien qu'elle soit le fruit d'une mûre réflexion ainsi que d'une observation approfondie, cette recherche présente toutefois certaines limites. En premier lieu, elle se concentre exclusivement sur le cas de l'AMU et ne prétend pas généraliser ses résultats à d'autres contextes universitaires.
+
+
+Peut-être pertinent de mentionner des petits numéros à chaque fois qu'un auteur est cité, pour renvoyer vers le titre de l'ouvrage.
+
+Exemple: "[...] avec les travaux pionniers d'Edith Penrose (1)"
+Et en point 1 mettre le titre du livre qui donne cette théorie
+Ou bien pour chaque auteur mentionner toutes les oeuvres utilisées.
+
+**Initiale**
+les ressources d'une entreprise peuvent constituer des sources d'avantage concurrentiel durable si elles sont rares
+
+**Correction**
+les ressources d'une entreprise peuvent constituer des sources d'avantage**s** concurrentiel**s** durable**s** si elles sont rares
+
+**Initiale**
+Nous avons d'abord développé la notion de ressources, en mettant l'accent d'une part sur les typologies des ressources, et d'autre part sur les compétences humaines. Aujourd'hui, il est impératif de combiner ces deux aspects pour une gestion intégrée et optimale des ressources de l'organisation. 
+
+**Proposition**
+Nous avons d'abord développé la notion de ressources, en mettant l'accent d'une part sur les typologies des ressources, mais également sur les compétences humaines. Aujourd'hui, il est impératif de combiner ces deux aspects pour une gestion intégrée, optimale et exhaustive des ressources de l'organisation.
+
+**Initiale**
+Resource-Based View (RBV) est un modèle qui considère les ressources comme la clé d'une performance supérieure
+
+**Proposition**
+Resource-Based View (RBV) est un modèle qui considère les ressources comme **étant** la clé d'une performance supérieure
+
+
+**Initiale**
+"sont considérés comme les principaux pionniers ayant posé les **??** du RBV dans les années 1980-1990."
+
+**"bases"** ? **fondements** ?
+
+Ou "ayant théorisé les fondements du RBV ..."
+
+**Initiale**
+La mise en place du RBD implique plusieurs étapes clés :  
+
+"RBD" -> "RBV" ?
+
+**Initiale**
+Tout d'abord, il est crucial d'identifier
+
+**Proposition**
+Il est dans un premier temps crucial d'identifier les potentielles ressources clés... (éviter la répétition de "tout d'abord" + inverser ressources clés et potentielles)
+
+**Initiale**
+Cela peut inclure 
+
+**Proposition**
+Celles-ci peuvent inclure ... (car DES ressources clés)
+
+Remplacer "ainsi que des ressources immatérielles" par "ou encore des ressources immatérielles" sinon syntaxe incorrecte
+
+**Initiale**
+Ces critères comprennent la valeur, la rareté, l'inimitabilité et la non-substituabilité (VRIN). 
+
+**Proposition**
+Tu parles d'abord de VRIO puis de VRIN, c'est la même chose ? Si oui peut-être en choisir un car déjà plusieurs acronymes et termes techniques
+
+**Initiale**
+Une fois que les ressources ont passé ces évaluations,
+
+**Proposition**
+Après un état des lieux précis et une évaluation rigoureuses de ces ressources, ...
