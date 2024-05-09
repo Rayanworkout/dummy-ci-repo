@@ -84,7 +84,7 @@ les ressources d'une entreprise peuvent constituer des sources d'avantage**s** c
 Nous avons d'abord développé la notion de ressources, en mettant l'accent d'une part sur les typologies des ressources, et d'autre part sur les compétences humaines. Aujourd'hui, il est impératif de combiner ces deux aspects pour une gestion intégrée et optimale des ressources de l'organisation. 
 
 **Proposition**
-Nous avons d'abord développé la notion de ressources, en mettant l'accent d'une part sur les typologies des ressources, mais également sur les compétences humaines. Aujourd'hui, il est impératif de combiner ces deux aspects pour une gestion intégrée, optimale et exhaustive des ressources de l'organisation.
+Nous avons d'abord développé la notion de ressource, en mettant l'accent d'une part sur les typologies des ressources, mais également sur les compétences humaines. Aujourd'hui, il est impératif de combiner ces deux aspects pour une gestion intégrée, optimale et exhaustive des ressources de l'organisation. (pas de S à ressource car LA notion)
 
 **Initiale**
 Resource-Based View (RBV) est un modèle qui considère les ressources comme la clé d'une performance supérieure
@@ -130,3 +130,63 @@ Une fois que les ressources ont passé ces évaluations,
 
 **Proposition**
 Après un état des lieux précis et une évaluation rigoureuses de ces ressources, ...
+
+**Initiale**
+renouvellement pour assurer la durabilité et la compétitivité de l'entreprise. 
+
+**Proposition**
+renouvellement pour assurer la durabilité et la compétitivité de l'entreprise sur le long terme.
+
+**Initiale**
+Ainsi, malgré son intérêt indéniable,
+
+**Proposition**
+Ainsi, malgré sa pertinence incontestable, ...
+
+
+**Initiale**
+la formation continue des employés et une gestion prudente des finances
+
+**Proposition**
+(Attention employé =/= salarié, employé est une CSP). On devrait dire "formation continue des salariés" ou bien collaborateurs
+1
+
+**Initiale**
+L'élimination des ressources doit être effectuée de manière écologique, en respectant les réglementations environnementales et en minimisant les impacts négatifs. 
+
+**Proposition**
+L'élimination des ressources **de type latériaux** doit être effectuée de manière écologique, en respectant les réglementations environnementales et en minimisant les impacts négatifs. ... Car on parle d'humains juste avant, qui doivent être "éliminés de manière écologique" c'est un peu bizarre.
+
+
+**Initiale**
+Développer plus sur la pyramide de Maslow ?? 
+
+**Proposition**
+Développer plutôt sur les notions de motivation et de satisfaction au travail, en s'appuyant sur les travaux précedemmment cités.
+Développer les théories qui expliquent comment maximiser la motivation au travail, de manière à bien répondre au nom de la partie: "Les théories des relations humaines et la perspective de la motivation", c'est à dire répondre à "comment traiter les relations humaines de manière à maximiser la motivation, ou en tout cas quels sont les concepts autour de la motivation."
+Ne pas trop détailler car c'est uniquement une sous-partie. Peut-être mettre cette partie après les théories contemporaines de la GRH ? De manière à aborder la motivation à la fois selon les vieilles études mais également les études contemporaines.
+
+
+**Initiale**
+En plus des théories classiques, plusieurs approches contemporaines de la gestion des ressources humaines ont émergé pour répondre aux défis et aux besoins changeants des organisations modernes. Parmi celles-ci, on peut citer l'approche stratégique de la GRH, qui met l'accent sur l'alignement des pratiques de gestion des ressources humaines avec les objectifs stratégiques de l'organisation, ainsi que l'approche basée sur les compétences, qui met l'accent sur le développement des compétences et des talents des employés pour assurer la compétitivité organisationnelle à long terme. 
+
+**Proposition**
+Idée est bien, mais mal formulée.
+
+De nos jours, et faisant suite aux théories classiques, plusieurs approches contemporaines de la GRH ont émergé, lesquelles s'adaptent aux besoins en constante évolution des organisations modernes.
+
+Les deux approches principales sont les suivantes:
+- L'approche stratégique de la GRH, laquelle met l'accent sur l'alignement des pratiques de gestion des ressources humaines avec les objectifs stratégiques de l'organisation.
+- L'approche basée sur les compétences, qui met quant à elle l'accent sur le développement des compétences et des talents des employés pour maximiser la compétitivité organisationnelle à long terme.
+
+Voyons ces théories plus en détail ...
+
+
+Développer la partie gestion par les compétences ?? => Non
+
+
+**Initiale**
+et l'intégration de la responsabilité sociétale dans la gestion des ressources humaines, comme discutée par Branco et Rodrigues (2006). 
+
+**Proposition**
+et l'intégration de la responsabilité sociétale dans la gestion des ressources humaines, théorisée par Branco et Rodrigues (2006).
