@@ -155,7 +155,7 @@ la formation continue des employés et une gestion prudente des finances
 L'élimination des ressources doit être effectuée de manière écologique, en respectant les réglementations environnementales et en minimisant les impacts négatifs. 
 
 **Proposition**
-L'élimination des ressources **de type latériaux** doit être effectuée de manière écologique, en respectant les réglementations environnementales et en minimisant les impacts négatifs. ... Car on parle d'humains juste avant, qui doivent être "éliminés de manière écologique" c'est un peu bizarre.
+L'élimination des ressources **de type matériaux** doit être effectuée de manière écologique, en respectant les réglementations environnementales et en minimisant les impacts négatifs. ... Car on parle d'humains juste avant, qui doivent être "éliminés de manière écologique" c'est un peu bizarre.
 
 
 **Initiale**
@@ -190,3 +190,52 @@ et l'intégration de la responsabilité sociétale dans la gestion des ressource
 
 **Proposition**
 et l'intégration de la responsabilité sociétale dans la gestion des ressources humaines, théorisée par Branco et Rodrigues (2006).
+
+
+
+# DEUXIÈME ENVOI
+
+Faute d'orthographe dans l'hypothèse 1: créent*
+J'aurais plutôt désigné l'utilisation des ressources, pas les ressources en elle-mêmes car c'est **certain** que des ressources créent un avantage concurrentiel, c'est pas juste une hypothèse.
+
+Proposition: Une utilisation judicieuse (ou pertinente) des ressources crée de la valeur et génère un avantage concurrentiel durable.
+
+1.1, faute d'orthographe: notion de ressource (sans S car LA notion)
+
+
+Introduction: "Les objectifs de déploiement, d'expansion, de renommée et d'image de marque fixés pour son positionnement national ont inévitable " -> phrase incomplète.
+
+"comprendre comment ces limites affectent les métiers à l'université, générant des tensions stratégiques et organisationnelles." -> comprendre comment est-ce que ces limitent ... générant **parfois** des tensions ...
+
+"Cependant, elle présente des limites" -> Cependant, celle-ci présente des limites ...
+
+De plus, la disponibilité limitée des données à l'AMU peut freiner l'analyse complète -> De plus, la disponibilité limitée des données à l'AMU empêche une analyse qui soit exhaustive.
+
+1.1.3 Attention titre en fin de page.
+
+"Il est dans un premier temps crucial d'identifier les potentielles ressources clés de l'entreprise. Celles-ci des actifs tangibles tels que des équipements et des infrastructures, ou encore des ressources immatérielles telles que des connaissances spécialisées et des relations avec la clientèle. " -> Il manque un mot après celles-ci, et il faudrait reformuler la phrase pour éviter la répétition de "telles que".
+
+Tu utilises l'acronyme VRIN avant de le définir.
+
+1.1.2 -> Faire plusieurs paragraphes car gros pâté.
+1.1.3 -> idem
+2.1.1 -> idem
+
+Étape 4 de la théorie du déclin -> "souvent conduisant" -> conduisant souvent
+
+"signe d'archaïsme et d'incapacité à évoluer avec les temps." -> signe d'archaïsme et d'incapacité à évoluer avec **son** temps.
+
+"Le déclin organisationnel lorsqu’il est reconnu et accepté à temps, il offre aux" -> Le déclin organisationnel, lorsqu’il est reconnu et accepté à temps, offre aux... (virgule manquante + "il" inutile)
+
+"La gestion des ressources consiste en l'organisation méthodique des ressources d'une entreprise pour atteindre ses objectifs et optimiser sa performance."
+-> La gestion des ressources consiste pour une entreprise à allouer et organiser ses ressources de manière méthodique pour atteindre ses objectifs et optimiser sa performance organisationnelle.
+
+"nous aborderons maintenant" -> nous allons maintenant aborder
+
+(pas sûr, à vérifier) "Ces activités indispensables mais peu valorisantes les empêchent ..." -> Ces activités indispensables mais peu valorisées les empêchent ...
+
+"Mais dans le même temps, les RH doivent veiller à traiter équitablement l'ensemble des salariés, sans discrimination, et à respecter les réglementations en vigueur en matière de droit du travail, d'égalité professionnelle, etc." -> Cependant, les RH doivent simultanément veiller à traiter équitablement tous les salariés, sans discrimination, tout en respectant les réglementations en vigueur en matière de droit du travail, d'égalité professionnelle, et autres.
+
+"Ainsi, le turn-over est un indicateur clé essentiel dans la gestion des ressources humaines pour évaluer le climat social de." -> phrase incomplète
+
+"En minimisant les rotations de personnel, soit le taux de turn-over," -> turnover
